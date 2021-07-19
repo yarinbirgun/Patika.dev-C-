@@ -1,0 +1,15 @@
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/invictus/Desktop/pratikler/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/invictus/Desktop/pratikler/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
