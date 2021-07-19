@@ -1,0 +1,10 @@
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/bin/Debug/net5.0/tip-dönüsümleri.dll
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/bin/Debug/net5.0/tip-dönüsümleri.pdb
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.csproj.AssemblyReference.cache
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.AssemblyInfoInputs.cache
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.AssemblyInfo.cs
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.csproj.CoreCompileInputs.cache
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.dll
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/ref/tip-dönüsümleri.dll
+/Users/invictus/Desktop/pratikler/tip-dönüsümleri/obj/Debug/net5.0/tip-dönüsümleri.pdb
