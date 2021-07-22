@@ -1,0 +1,10 @@
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.csproj.AssemblyReference.cache
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.AssemblyInfoInputs.cache
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.AssemblyInfo.cs
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.csproj.CoreCompileInputs.cache
+/Users/invictus/Desktop/pratikler/hata-yönetimi/bin/Debug/net5.0/hata-yönetimi.dll
+/Users/invictus/Desktop/pratikler/hata-yönetimi/bin/Debug/net5.0/hata-yönetimi.pdb
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.dll
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/ref/hata-yönetimi.dll
+/Users/invictus/Desktop/pratikler/hata-yönetimi/obj/Debug/net5.0/hata-yönetimi.pdb
