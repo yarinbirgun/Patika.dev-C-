@@ -1,0 +1,5 @@
+/Users/invictus/Desktop/pratikler/switch-case/obj/Debug/net5.0/switch-case.csproj.AssemblyReference.cache
+/Users/invictus/Desktop/pratikler/switch-case/obj/Debug/net5.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/invictus/Desktop/pratikler/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfoInputs.cache
+/Users/invictus/Desktop/pratikler/switch-case/obj/Debug/net5.0/switch-case.AssemblyInfo.cs
+/Users/invictus/Desktop/pratikler/switch-case/obj/Debug/net5.0/switch-case.csproj.CoreCompileInputs.cache
