@@ -1,0 +1,15 @@
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/donguler_while_foreach.deps.json
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/donguler_while_foreach.runtimeconfig.json
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/donguler_while_foreach.runtimeconfig.dev.json
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/donguler_while_foreach.dll
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/ref/donguler_while_foreach.dll
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/bin/Debug/net5.0/donguler_while_foreach.pdb
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.csproj.AssemblyReference.cache
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.AssemblyInfoInputs.cache
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.AssemblyInfo.cs
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.csproj.CoreCompileInputs.cache
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.dll
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/ref/donguler_while_foreach.dll
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.pdb
+/Users/invictus/Desktop/pratikler/donguler_while_foreach/obj/Debug/net5.0/donguler_while_foreach.genruntimeconfig.cache
